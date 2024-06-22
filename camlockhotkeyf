@@ -1,44 +1,19 @@
--- MADE BY disabledacctah on discord/ Cyber-Roblox on YT          
-
+--what you want here?
 
 
 game.StarterGui:SetCore(
 	"SendNotification",
 	{
-		Title = "Cyber-Roblox",
-		Text = "Loading . . .",
+		Title = "DingaHub",
+		Text = "Hotkey - F",
 	}
 )
 wait(1)
 game.StarterGui:SetCore(
 	"SendNotification",
 	{
-		Title = "Cyber-Roblox",
-		Text = "Authenticating..",
-	}
-)
-wait(1)
-game.StarterGui:SetCore(
-	"SendNotification",
-	{
-		Title = "Cyber-Roblox",
-		Text = "Setting Up...",
-	}
-)
-wait(1)
-game.StarterGui:SetCore(
-	"SendNotification",
-	{
-		Title = "Cyber-Roblox",
-		Text = "Done!",
-	}
-)
-wait(0.5)
-game.StarterGui:SetCore(
-	"SendNotification",
-	{
-		Title = "Cyber-Roblox",
-		Text = "made by disabledacctah on discord!",
+		Title = "DingaHub",
+		Text = "Made By DingaHub! Enjoy!",
 	}
 )    
 
